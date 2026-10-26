@@ -119,7 +119,7 @@ Also building **Tankersathi**, a multi-tenant SaaS for water-tanker delivery bus
 
 ### 💬 Open to Senior Full-Stack and Founding-Engineer Roles (Remote)
 
-<a href="https://cal.com/niranjan821/intro">
+<a href="https://cal.com/niranjan-b-a/intro">
 <img src="https://img.shields.io/badge/Book_a_30--min_call-2563EB?style=for-the-badge&logo=caldotcom&logoColor=white"/>
 </a>
 
