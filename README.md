@@ -4,7 +4,7 @@
 
 # Niranjan B A
 
-**Senior Full-Stack Engineer · Founding Engineer · TypeScript, React/Next.js, Node.js, GCP**
+**Senior Full-Stack Engineer · TypeScript, React/Next.js, Node.js, GCP**
 
 I build and run production web products end to end, from architecture and frontend performance to DevOps and LLM features.
 
@@ -22,9 +22,9 @@ I build and run production web products end to end, from architecture and fronte
 
 ### 🎯 Now
 
-**Senior Software Engineer (Full Stack & DevOps)** at **[Naya Studio](https://naya.studio)**, a founding engineer building AI-powered cost estimation and real-time collaborative design tools for enterprise clients.
+**Senior Software Engineer (Full Stack & DevOps)** at **[Naya Studio](https://naya.studio)**, building AI-powered cost estimation and real-time collaborative design tools for enterprise clients.
 
-Also building **Tankersathi**, a multi-tenant SaaS for water-tanker delivery businesses (Flutter + Supabase), currently in Google Play closed testing.
+Also built **Tankersathi**, a multi-tenant SaaS for water-tanker delivery businesses (Flutter + Supabase), with apps published on Google Play.
 
 </td>
 <td width="50%" valign="top">
@@ -35,6 +35,8 @@ Also building **Tankersathi**, a multi-tenant SaaS for water-tanker delivery bus
 ✦ Page load 2.5s → under 1s
 ✦ Project config ~3 hrs → 5–10 min (LLM)
 ✦ 65 catalogs extracted at ~95% accuracy
+✦ Infra costs cut by 50%+
+✦ Collaboration platform: 2,000+ users
 ✦ 2,000+ users as CTO of Kramatiq
 ✦ 300+ monthly paying subscribers
 ✦ 60+ migrations, 300+ automated tests
