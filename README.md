@@ -35,7 +35,7 @@ Also built **Tankersathi**, a multi-tenant SaaS for water-tanker delivery busine
 ✦ Page load 2.5s → under 1s
 ✦ Project config ~3 hrs → 5–10 min (LLM)
 ✦ 65 catalogs extracted at ~95% accuracy
-✦ Infra costs cut by 50%+
+✦ Infra costs cut ~$40K/yr (co-led)
 ✦ Collaboration platform: 2,000+ users
 ✦ 2,000+ users as CTO of Kramatiq
 ✦ 300+ monthly paying subscribers
