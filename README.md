@@ -8,7 +8,7 @@
 
 I build and run production web products end to end, from architecture and frontend performance to DevOps and LLM features.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=safari&logoColor=white)](https://niranjan821.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=safari&logoColor=white)](https://niranjanba.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjanba)
 [![Email](https://img.shields.io/badge/-niranjangowda821-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjangowda821@gmail.com)
 
@@ -33,10 +33,10 @@ Also built **Tankersathi**, a multi-tenant SaaS for water-tanker delivery busine
 
 ```
 ✦ Page load 2.5s → under 1s
-✦ Project config ~3 hrs → 5–10 min (LLM)
+✦ Project config 10+ hrs → 10–15 min (LLM)
 ✦ 65 catalogs extracted at ~95% accuracy
-✦ Infra costs cut ~$40K/yr (co-led)
-✦ Collaboration platform: 2,000+ users
+✦ Infra costs cut by ~$40K/yr
+✦ Collaboration platform: 15,000+ users
 ✦ 2,000+ users as CTO of Kramatiq
 ✦ 300+ monthly paying subscribers
 ✦ 60+ migrations, 300+ automated tests
